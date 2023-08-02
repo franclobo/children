@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comidas on </title>
+    <link>http://localhost:1313/catalogo/comidas/</link>
+    <description>Recent content in Comidas on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 06:20:55 +0600</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/catalogo/comidas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Casa del Librillo</title>
+      <link>http://localhost:1313/catalogo/comidas/lacasadellibrillo/</link>
+      <pubDate>Mon, 08 Jun 2020 06:20:55 +0600</pubDate>
+      
+      <guid>http://localhost:1313/catalogo/comidas/lacasadellibrillo/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam bibendum et dui at posuere. Nullam commodo sed massa vel rutrum. Aliquam erat volutpat. Maecenas facilisis tortor ac dui efficitur, non egestas magna tincidunt. Aliquam tincidunt nibh elit, non congue diam efficitur at. Nullam imperdiet purus a elit auctor imperdiet nec.
+Apanado At first, let&amp;rsquo;s set a background on your website. Put your desired background image in the static/images directory. Then add the following in the params section of your config.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+# section information
+section:
+  name: Quiénes Somos
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Un producto
+# your company information
+company:
+  name: CHILDREN INTERNATIONAL
+  url: "https://www.children.org/es"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "https://www.children.org/es/marcar-la-diferencia/dar"
+
+# a summary about you
+summary: 'Ecuador es reconocido como uno de los países más emprendedores de la región, pero lastimosamente también es uno de los países donde más fracasan los emprendimientos. Esto se debe entre otros factores a que es difícil insertarse en las economías locales caracterizadas por ser bastante competitivas. Nuestra apuesta es generar un ecosistema de apoyo mutuo entre emprendedores que permita aumentar el éxito y consolidación de los emprendimientos que hacen parte de él, basados en el apoyo a la difusión de negocios que constituyen una alternativa de sustento para familias económicamente vulnerables.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+#- name: Email
+#  icon: "fas fa-envelope"
+#  url: "example@gmail.com"
+
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://www.github.com/example"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/children/?ref=nf"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/Children"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/children/"
+ 
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/company/children-international"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+#softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+#- name: Team Work
+#  percentage: 90
+#  color: yellow
+#- name: Communication
+#  percentage: 85
+#  color: pink
+#- name: Hard Working
+#  percentage: 85
+#  color: green
+#- name: Fast Learner
+#  percentage: 85
+#  color: sky
+#- name: Problem Solving
+#  percentage: 85
+#  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
